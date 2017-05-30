@@ -17,7 +17,7 @@ Para probar este ejemplo, se necesita tener instalado y activado el XAMPP con su
 *Ademas se adjunta una base de datos de prueba en el directorio bd con algunos registros de prueba.
 
 # Version ONLINE
-Para observar el ejemplo sin necesidad de instalar: reflejo.epizy.com/cakerbacft/  
+Para observar el ejemplo sin necesidad de instalar: http://reflejo.epizy.com/cakerbacft/  
 Usuarios:  
 Rodrigo_Lopez  
 asd1234  
